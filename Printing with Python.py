@@ -1,0 +1,10 @@
+print("Hello, World!")
+
+print("I'm learning Python")
+print("This is so much fun")
+print("I can't wait to learn more!")
+print('This is string with single quote.')
+print("My name is 'Vikas Tripuraneni'")
+print("First line \n second line \n third line \n fourth line \n fifth line")
+print("First wrd \t Second \t Third \t Fourth \t Fifth")
+print("My name is", "Vikas", "and I'm", 41 ,"Years old")
