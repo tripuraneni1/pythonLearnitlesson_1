@@ -55,6 +55,7 @@ new_months_to_break_even = total_startup_cost / new_monthly_profit
 
 print("Updated Financial Projects:")
 print(f"New Monthly Revenue: ${new_monthly_revenue:,.2f}")
+print(f"New Monthly Revenue: ${new_monthly_revenue:,.2f}")
 print(f"New Monthly Profit: ${new_monthly_profit:,.2f}")
 print(f"New Months to Break Even: {new_months_to_break_even:,.1f}")
 
